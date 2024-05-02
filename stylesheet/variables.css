@@ -1,0 +1,26 @@
+/*********** All global variables ***********/
+
+:root {
+
+    /* colors */
+    --white: hsl(0, 0%, 100%);
+    --black: hsl(0, 0%, 0%);
+    --dark-gray: hsl(0, 0%, 55%);
+    --very-dark-gray: hsl(0, 0%, 41%);
+
+
+    /* typograpghy */
+    --ff-alata-font-family: "Alata", sans-serif;
+    --ff-josefin-sans-font-family: "Josefin Sans", sans-serif;
+    --fs-h1: 4.7rem;
+    --fs-h2: 3.2rem;
+    --fs-h3: 2.1rem;
+    --fs-regular: 15px;
+    --fw-300: 300;
+
+
+    /* spacing */
+    --padding-left-right-px: 165px;     /* padding left and padding right */
+    --media-padding-left-right-px: 80px;     /* media query padding left and padding right */
+    --margin-bottom: 180px;             /* margin bottom */
+}
